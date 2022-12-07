@@ -1,0 +1,20 @@
+body {
+    background-color: plum;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(211, 16, 136);
+}
+
+table {
+    background-color: rgba(212, 202, 202, 0.897);
+    width: 100%;
+    border: 1px solid black; 
+}
+#titulo {
+    width: 40%;
+}
+#espaco {
+    width: 10%;
+}
+.navegacao a:hover{ 
+    color: rgb(160, 0, 160);
+}
